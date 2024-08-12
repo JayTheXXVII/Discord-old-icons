@@ -6,4 +6,6 @@
 ╚═══╢Paste DiscordOldIcons.css into Custom CSS Editor & Save CSS
 
 ## Disclaimer
-*updated version of [Icon Revert 2023](https://github.com/davart154/Icon-Revert-2023)*
+*Updated version of [Icon Revert 2023](https://github.com/davart154/Icon-Revert-2023)*
+
+*Maintained with [Syndishanx Discord Class Updater](https://syndishanx.github.io/Website/Update_Classes.html)*

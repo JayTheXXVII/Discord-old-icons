@@ -1,4 +1,4 @@
-### Installation
+## Installation
 ╔═╢Install [Better Discord](https://betterdiscord.app/)  
 ║   
 ╠══╢In Discord go to User Settings > Custom CSS  
